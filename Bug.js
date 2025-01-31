@@ -1,0 +1,1 @@
+This error occurs when you try to access a state variable before it has been initialized. This commonly happens when using the `useState` hook in a React Native component and trying to access the state variable within the component's initial render before the `useState` hook has had a chance to initialize it.
